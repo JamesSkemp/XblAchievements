@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1297287122">
+		<Title>Kameo</Title>
+	</Game>
+	<Achievement id="9">
+		<Title>Beaten Thorn</Title>
+		<Image>https://live.xbox.com/tiles/eg/17/1ICLiGJhbC9DFQRLXVBRGGQyL2FjaC8wLzcAAAAA5+fn+1QNYQ==.jpg</Image>
+		<Description>Kameo defeated the Troll King Thorn!</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Found Thermite</Title>
+		<Image>https://live.xbox.com/tiles/c6/fP/1oCLiGJhbC9HCxtUGltTVmQyL2FjaC8wLzEzAAAAAOfn5-ngp28=.jpg</Image>
+		<Description>Kameo has command of all the Elemental Warriors!</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Found Snare</Title>
+		<Image>https://live.xbox.com/tiles/4F/8v/14CLiGJhbC9GCxtUGltTVmQyL2FjaC8wLzEyAAAAAOfn5-gAX-w=.jpg</Image>
+		<Description>Kameo can transform into nine Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Found 40 Below</Title>
+		<Image>https://live.xbox.com/tiles/S7/6T/1YCLiGJhbC8VFQRLXVBRGGQyL2FjaC8wL2EAAAAA5+fn+ry+UA==.jpg</Image>
+		<Description>Kameo can transform into eight Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>Found Flex</Title>
+		<Image>https://live.xbox.com/tiles/B1/wQ/0oCLiGJhbC8RFQRLXVBRGGQyL2FjaC8wL2UAAAAA5+fn-T9cHA==.jpg</Image>
+		<Description>Kameo can transform into seven Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Found Chilla</Title>
+		<Image>https://live.xbox.com/tiles/bU/9S/1oCLiGJhbC8XFQRLXVBRGGQyL2FjaC8wL2MAAAAA5+fn+X1Pdg==.jpg</Image>
+		<Description>Kameo can transform into six Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Found Deep Blue</Title>
+		<Image>https://live.xbox.com/tiles/lK/Tw/04CLiGJhbC8QFQRLXVBRGGQyL2FjaC8wL2QAAAAA5+fn-N+kjw==.jpg</Image>
+		<Description>Kameo can transform into five Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>Found Major Ruin</Title>
+		<Image>https://live.xbox.com/tiles/sl/Ux/0ICLiGJhbC8SFQRLXVBRGGQyL2FjaC8wL2YAAAAA5+fn-x5VqQ==.jpg</Image>
+		<Description>Kameo can transform into four Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="12">
+		<Title>Found Ash</Title>
+		<Image>https://live.xbox.com/tiles/-r/ey/14CLiGJhbC8WFQRLXVBRGGQyL2FjaC8wL2IAAAAA5+fn+J235Q==.jpg</Image>
+		<Description>Kameo can transform into three Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="11">
+		<Title>Found Rubble</Title>
+		<Image>https://live.xbox.com/tiles/VV/YO/1YCLiGJhbC9FCxtUGltTVmQyL2FjaC8wLzExAAAAAOfn5-ohVkk=.jpg</Image>
+		<Description>Kameo can transform into two Elemental Warriors</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>Found Pummel Weed</Title>
+		<Image>https://live.xbox.com/tiles/xq/7u/1ICLiGJhbC9ECxtUGltTVmQyL2FjaC8wLzEwAAAAAOfn5-vBrto=.jpg</Image>
+		<Description>Found Pummel Weed</Description>
+	</Achievement>
+</XblAchievements>
