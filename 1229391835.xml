@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1229391835">
+		<Title>BulletWitch</Title>
+	</Game>
+	<Achievement id="12">
+		<Title>Total Play Time 15 Hours+.</Title>
+		<Image>https://live.xbox.com/tiles/1f/Qa/1ICLiGJhbC9HFQQWXFRRGGRiL2FjaC8wLzMAAAAA5+fn+zX0zg==.jpg</Image>
+		<Description>Game was played for over 15 hours.</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>All Stages Cleared.</Title>
+		<Image>https://live.xbox.com/tiles/Rg/z6/1YCLiGJhbC9GFQQWXFRRGGRiL2FjaC8wLzIAAAAA5+fn+tUMXQ==.jpg</Image>
+		<Description>All stages were beat in some difficulty mode.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Full Power-Up Completed.</Title>
+		<Image>https://live.xbox.com/tiles/LB/+4/0YCLiGJhbC9AFQQWXFRRGGRiL2FjaC8wLzQAAAAA5+fn-pcfNw==.jpg</Image>
+		<Description>All in-game power-up elements were collected.</Description>
+	</Achievement>
+</XblAchievements>
