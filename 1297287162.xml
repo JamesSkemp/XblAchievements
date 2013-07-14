@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1297287162">
+		<Title>Lost Odyssey</Title>
+	</Game>
+	<Achievement id="8">
+		<Title>Skill Master Ming</Title>
+		<Image>https://live.xbox.com/tiles/iq/TQ/0oCLiGJhbC9MFQRLXVBRGGZhL2FjaC8wLzgAAAAA5+fn-f+kkQ==.jpg</Image>
+		<Description>Ming mastered all skills.</Description>
+	</Achievement>
+	<Achievement id="9">
+		<Title>Skill Master Sarah</Title>
+		<Image>https://live.xbox.com/tiles/GV/ww/04CLiGJhbC9NFQRLXVBRGGZhL2FjaC8wLzkAAAAA5+fn-B9cAg==.jpg</Image>
+		<Description>Sarah mastered all skills.</Description>
+	</Achievement>
+	<Achievement id="7">
+		<Title>Skill Master Seth</Title>
+		<Image>https://live.xbox.com/tiles/hL/D3/0YCLiGJhbC9DFQRLXVBRGGZhL2FjaC8wLzcAAAAA5+fn-tiwnw==.jpg</Image>
+		<Description>Seth mastered all skills.</Description>
+	</Achievement>
+	<Achievement id="36">
+		<Title>Champion</Title>
+		<Image>https://live.xbox.com/tiles/Xj/05/0oCLiGJhbC9ACBtUGltTVmZhL2FjaC8wLzI0AAAAAOfn5-0WPUI=.jpg</Image>
+		<Description>Met the secret requirement of the Backyard last challenger and won.</Description>
+	</Achievement>
+	<Achievement id="35">
+		<Title>Super Heavy Class Master</Title>
+		<Image>https://live.xbox.com/tiles/p9/ab/14CLiGJhbC9HCBtUGltTVmZhL2FjaC8wLzIzAAAAAOfn5-i01rs=.jpg</Image>
+		<Description>Met the secret requirement of the Backyard Super Heavy Class battle set and won.</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Spell Collector</Title>
+		<Image>https://live.xbox.com/tiles/TO/i9/1YCLiGJhbC8SFQRLXVBRGGZhL2FjaC8wL2YAAAAA5+fn+pLoVw==.jpg</Image>
+		<Description>All spells have been obtained.</Description>
+	</Achievement>
+	<Achievement id="21">
+		<Title>Defeated Ghost of Eastern Ruins</Title>
+		<Image>https://live.xbox.com/tiles/ZP/XL/0YCLiGJhbC9BCxtUGltTVmZhL2FjaC8wLzE1AAAAAOfn5-7k9Xg=.jpg</Image>
+		<Description>You defeated the Ancient Spirit Magician Fu at the Temple of Enlightenment.</Description>
+	</Achievement>
+	<Achievement id="34">
+		<Title>Heavy Class Master</Title>
+		<Image>https://live.xbox.com/tiles/NC/57/1oCLiGJhbC9GCBtUGltTVmZhL2FjaC8wLzIyAAAAAOfn5-lULig=.jpg</Image>
+		<Description>Met the secret requirement of the Backyard Heavy Class battle set and won.</Description>
+	</Achievement>
+	<Achievement id="33">
+		<Title>Middle Class Master</Title>
+		<Image>https://live.xbox.com/tiles/gS/da/1ICLiGJhbC9FCBtUGltTVmZhL2FjaC8wLzIxAAAAAOfn5-t1J50=.jpg</Image>
+		<Description>Met the secret requirement of the Backyard Middle Class battle set and won.</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>Defeated Cave Worm</Title>
+		<Image>https://live.xbox.com/tiles/u+/+o/14CLiGJhbC9ECxtUGltTVmZhL2FjaC8wLzEwAAAAAOfn5-iH76c=.jpg</Image>
+		<Description>You defeated Cave Worm at the Forgotten Cave.</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Defeated Blue Dragon</Title>
+		<Image>https://live.xbox.com/tiles/Du/aJ/1YCLiGJhbC9HCxtUGltTVmZhL2FjaC8wLzEzAAAAAOfn5-qm5hI=.jpg</Image>
+		<Description>You defeated Blue Dragon at the Snowfields of the Northernmost Land.</Description>
+	</Achievement>
+	<Achievement id="22">
+		<Title>Defeated Golden Knight</Title>
+		<Image>https://live.xbox.com/tiles/0f/zq/04CLiGJhbC9CCxtUGltTVmZhL2FjaC8wLzE2AAAAAOfn5-zF-M0=.jpg</Image>
+		<Description>Deactivated all Royal Seals and defeated Golden Knight.</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Defeated Holy Beast</Title>
+		<Image>https://live.xbox.com/tiles/nR/5p/1ICLiGJhbC9GCxtUGltTVmZhL2FjaC8wLzEyAAAAAOfn5-tGHoE=.jpg</Image>
+		<Description>You defeated Holy Beast at Numara Atoll.</Description>
+	</Achievement>
+	<Achievement id="20">
+		<Title>Defeated King Kelolon</Title>
+		<Image>https://live.xbox.com/tiles/9w/0r/0ICLiGJhbC9ACxtUGltTVmZhL2FjaC8wLzE0AAAAAOfn5-8EDes=.jpg</Image>
+		<Description>You defeated King Kelolon at Kelolon Village</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Defeated Persona</Title>
+		<Image>https://live.xbox.com/tiles/KB/dI/1oCLiGJhbC9FCxtUGltTVmZhL2FjaC8wLzExAAAAAOfn5-lnFzQ=.jpg</Image>
+		<Description>You defeated Persona at the Old Sorceress' Mansion.</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>Skill Master Jansen</Title>
+		<Image>https://live.xbox.com/tiles/tQ/Mf/0ICLiGJhbC8VFQRLXVBRGGZhL2FjaC8wL2EAAAAA5+fn-zADrg==.jpg</Image>
+		<Description>Jansen mastered all available skills.</Description>
+	</Achievement>
+	<Achievement id="12">
+		<Title>Skill Master Mack</Title>
+		<Image>https://live.xbox.com/tiles/k-/Le/04CLiGJhbC8XFQRLXVBRGGZhL2FjaC8wL2MAAAAA5+fn-PHyiA==.jpg</Image>
+		<Description>Mack mastered all available skills.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Skill Master Sed</Title>
+		<Image>https://live.xbox.com/tiles/+e/Gc/14CLiGJhbC8RFQRLXVBRGGZhL2FjaC8wL2UAAAAA5+fn+LPh4g==.jpg</Image>
+		<Description>Sed mastered all available skills.</Description>
+	</Achievement>
+	<Achievement id="11">
+		<Title>Skill Master Cooke</Title>
+		<Image>https://live.xbox.com/tiles/AA/o+/0oCLiGJhbC8WFQRLXVBRGGZhL2FjaC8wL2IAAAAA5+fn-REKGw==.jpg</Image>
+		<Description>Cooke mastered all available skills.</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>Skill Master Tolten</Title>
+		<Image>https://live.xbox.com/tiles/ah/l8/1oCLiGJhbC8QFQRLXVBRGGZhL2FjaC8wL2QAAAAA5+fn+VMZcQ==.jpg</Image>
+		<Description>Tolten mastered all available skills.</Description>
+	</Achievement>
+	<Achievement id="25">
+		<Title>Ring Assembler</Title>
+		<Image>https://live.xbox.com/tiles/3+/jN/0ICLiGJhbC9NCxtUGltTVmZhL2FjaC8wLzE5AAAAAOfn5--i6MM=.jpg</Image>
+		<Description>Assembled a ring using Ring Assembly.</Description>
+	</Achievement>
+</XblAchievements>
