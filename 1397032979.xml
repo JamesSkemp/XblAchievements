@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1397032979">
+		<Title>BAYONETTA</Title>
+	</Game>
+	<Achievement id="12">
+		<Title>Chapters 14-Epilogue (Normal)</Title>
+		<Image>https://live.xbox.com/tiles/MD/R8/0YCLiGJhbC8XFQUcXFZRFzEzL2FjaC8wL2MAAAAA5+fn-lM0Kw==.jpg</Image>
+		<Description>Complete Chapters 14 through the Epilogue on Normal difficulty.</Description>
+	</Achievement>
+	<Achievement id="11">
+		<Title>Chapters 12-13 (Normal)</Title>
+		<Image>https://live.xbox.com/tiles/o8/yc/0ICLiGJhbC8WFQUcXFZRFzEzL2FjaC8wL2IAAAAA5+fn-7PMuA==.jpg</Image>
+		<Description>Complete Chapters 12 and 13 on Normal difficulty.</Description>
+	</Achievement>
+</XblAchievements>
