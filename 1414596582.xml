@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1414596582">
+		<Title>Darksiders</Title>
+	</Game>
+	<Achievement id="40">
+		<Title>Ultimate Blade</Title>
+		<Image>https://live.xbox.com/tiles/n+/Nn/0oCLiGJhbC8VCxoEGllTVmU2L2FjaC8wLzFhAAAAAOfn5-1I44M=.jpg</Image>
+		<Description>Forge the Armageddon Blade</Description>
+	</Achievement>
+	<Achievement id="58">
+		<Title>World Raider</Title>
+		<Image>https://live.xbox.com/tiles/-o/s-/1ICLiGJhbC9ECBoEGllTVmU2L2FjaC8wLzIwAAAAAOfn5-sQi+I=.jpg</Image>
+		<Description>Collect all 27 Artifacts</Description>
+	</Achievement>
+	<Achievement id="62">
+		<Title>Horseman</Title>
+		<Image>https://live.xbox.com/tiles/sm/m8/04CLiGJhbC9ACBoEGllTVmU2L2FjaC8wLzI0AAAAAOfn5-yTaa4=.jpg</Image>
+		<Description>Kill 150 demons from horseback</Description>
+	</Achievement>
+	<Achievement id="31">
+		<Title>Treasure Hunter</Title>
+		<Image>https://live.xbox.com/tiles/4r/IM/1ICLiGJhbC9HCxoEGllTVmU2L2FjaC8wLzEzAAAAAOfn5-sjsv4=.jpg</Image>
+		<Description>Search 150 caskets</Description>
+	</Achievement>
+	<Achievement id="60">
+		<Title>River of Blood</Title>
+		<Image>https://live.xbox.com/tiles/2H/r+/14CLiGJhbC9GCBoEGllTVmU2L2FjaC8wLzIyAAAAAOfn5-jResQ=.jpg</Image>
+		<Description>Shed 3000 gallons of demon blood</Description>
+	</Achievement>
+	<Achievement id="53">
+		<Title>Slayer</Title>
+		<Image>https://live.xbox.com/tiles/QP/kE/1ICLiGJhbC8QCxoEGllTVmU2L2FjaC8wLzFkAAAAAOfn5-sr+Vw=.jpg</Image>
+		<Description>Kill 666 Demons</Description>
+	</Achievement>
+</XblAchievements>
