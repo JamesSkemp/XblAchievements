@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1413679061">
+		<Title>NINJA GAIDEN 2</Title>
+	</Game>
+	<Achievement id="71">
+		<Title>Three of Blue</Title>
+		<Image>https://live.xbox.com/tiles/zQ/qf/0YCLiGJhbC9HCBoEG1tTVmQ1L2FjaC8wLzIzAAAAAOfn5-6wCtE=.jpg</Image>
+		<Description>Purified the site of the the third Test of Valor.</Description>
+	</Achievement>
+	<Achievement id="70">
+		<Title>Two of Black</Title>
+		<Image>https://live.xbox.com/tiles/Xv/J-/0ICLiGJhbC9GCBoEG1tTVmQ1L2FjaC8wLzIyAAAAAOfn5-9Q8kI=.jpg</Image>
+		<Description>Purified the site of the the second Test of Valor.</Description>
+	</Achievement>
+	<Achievement id="82">
+		<Title>Finished Chapter 3</Title>
+		<Image>https://live.xbox.com/tiles/lq/o1/1ICLiGJhbC8XCBoEG1tTVmQ1L2FjaC8wLzJjAAAAAOfn5-saqoo=.jpg</Image>
+		<Description>Finished Chapter 3, "Thunderclap of Catastrophe."</Description>
+	</Achievement>
+	<Achievement id="69">
+		<Title>One of White</Title>
+		<Image>https://live.xbox.com/tiles/6-/te/0oCLiGJhbC9FCBoEG1tTVmQ1L2FjaC8wLzIxAAAAAOfn5-1x+-c=.jpg</Image>
+		<Description>Purified the site of the the first Test of Valor.</Description>
+	</Achievement>
+	<Achievement id="81">
+		<Title>Finished Chapter 2</Title>
+		<Image>https://live.xbox.com/tiles/BV/LV/1YCLiGJhbC8WCBoEG1tTVmQ1L2FjaC8wLzJiAAAAAOfn5-r6Uhk=.jpg</Image>
+		<Description>Finished Chapter 2, "The Castle of the Dragon."</Description>
+	</Achievement>
+	<Achievement id="80">
+		<Title>Finished Chapter 1</Title>
+		<Image>https://live.xbox.com/tiles/sF/v0/14CLiGJhbC8VCBoEG1tTVmQ1L2FjaC8wLzJhAAAAAOfn5-jbW6w=.jpg</Image>
+		<Description>Finished Chapter 1, "Sky City Tokyo."</Description>
+	</Achievement>
+</XblAchievements>
