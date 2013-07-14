@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="-1">
+		<Title>titleFromApis</Title>
+	</Game>
+	<Achievement id="-1">
+		<!-- example page: https://live.xbox.com/en-US/Activity/Details?titleId=1397819364 -->
+		<Title>titleFromOfficialGameActivityPage</Title>
+		<Image>urlFromOfficialGameActivityPage</Image>
+		<Description>descriptionFromOfficialGameActivityPage</Description>
+	</Achievement>
+</XblAchievements>
