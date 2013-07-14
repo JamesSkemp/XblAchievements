@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1313671179">
+		<Title>Magnacarta2</Title>
+	</Game>
+	<Achievement id="19">
+		<Title>Game Completed</Title>
+		<Image>https://live.xbox.com/tiles/A-/7g/0ICLiGJhbC8QFQRKXAdRFzBiL2FjaC8wL2QAAAAA5+fn-8-+GA==.jpg</Image>
+		<Description>Completed the game's main story.</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Assault on Ruhalt Plateau</Title>
+		<Image>https://live.xbox.com/tiles/3O/SD/1oCLiGJhbC8VFQRKXAdRFzBiL2FjaC8wL2EAAAAA5+fn+azkxw==.jpg</Image>
+		<Description>Completed the assault on Ruhalt Plateau.</Description>
+	</Achievement>
+	<Achievement id="31">
+		<Title>Co-op Technique: Celestine &amp; Rue</Title>
+		<Image>https://live.xbox.com/tiles/T4/qg/04CLiGJhbC8RCxtVGwxTWTBiL2FjaC8wLzFlAAAAAOfn5-yPilM=.jpg</Image>
+		<Description>Learned Co-op Technique for Celestine &amp; Rue.</Description>
+	</Achievement>
+	<Achievement id="30">
+		<Title>Co-op Technique: Juto &amp; Crocell</Title>
+		<Image>https://live.xbox.com/tiles/tm/EC/1oCLiGJhbC8WCxtVGwxTWTBiL2FjaC8wLzFiAAAAAOfn5-ktYao=.jpg</Image>
+		<Description>Learned Co-op Technique for Juto &amp; Crocell.</Description>
+	</Achievement>
+	<Achievement id="26">
+		<Title>Co-op Technique: Zephie &amp; Rue</Title>
+		<Image>https://live.xbox.com/tiles/JZ/ni/14CLiGJhbC8XCxtVGwxTWTBiL2FjaC8wLzFjAAAAAOfn5-jNmTk=.jpg</Image>
+		<Description>Learned Co-op Technique for Zephie &amp; Rue.</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Escape from Belfort</Title>
+		<Image>https://live.xbox.com/tiles/ae/2i/1ICLiGJhbC8WFQRKXAdRFzBiL2FjaC8wL2IAAAAA5+fn+43tcg==.jpg</Image>
+		<Description>Successfully escaped from Belfort.</Description>
+	</Achievement>
+	<Achievement id="27">
+		<Title>Co-op Technique: Argo&amp;Celestine</Title>
+		<Image>https://live.xbox.com/tiles/3H/JA/0oCLiGJhbC8QCxtVGwxTWTBiL2FjaC8wLzFkAAAAAOfn5-1vcsA=.jpg</Image>
+		<Description>Learned Co-op Technique for Argo &amp; Celestine.</Description>
+	</Achievement>
+</XblAchievements>
