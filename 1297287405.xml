@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1297287405">
+		<Title>Kinect Adventures</Title>
+	</Game>
+	<Achievement id="42">
+		<Title>Jump The Shark</Title>
+		<Image>https://live.xbox.com/tiles/b2/Vs/1YCLiGJhbC9NCBtUGltTWWVkL2FjaC8wLzI5AAAAAOfn5-pDZXM=.jpg</Image>
+		<Description>Made the shark jump while recording the Dive In! Living Statue</Description>
+	</Achievement>
+	<Achievement id="47">
+		<Title>Oooh... Shiny!</Title>
+		<Image>https://live.xbox.com/tiles/wz/pD/1oCLiGJhbC8VCBtUGltTWWVkL2FjaC8wLzJhAAAAAOfn5-lsOt8=.jpg</Image>
+		<Description>Earned a Platinum Medal, or saw one earned, in any level</Description>
+	</Achievement>
+</XblAchievements>
