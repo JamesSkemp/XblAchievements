@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1397819355">
+		<Title>Infinite Undiscovery</Title>
+	</Game>
+	<Achievement id="49">
+		<Title>Big Daddy's Back</Title>
+		<Image>https://live.xbox.com/tiles/gJ/zd/0YCLiGJhbC9BFQUcXVJRGGRiL2FjaC8wLzUAAAAA5+fn-vKcmw==.jpg</Image>
+		<Description>Sigmund joined your party in the Seraphic Gate.</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Hephaestus's Hammer</Title>
+		<Image>https://live.xbox.com/tiles/NZ/X8/04CLiGJhbC9CFQUcXVJRGGRiL2FjaC8wLzYAAAAA5+fn-NOVLg==.jpg</Image>
+		<Description>Forged an azureal blade.</Description>
+	</Achievement>
+	<Achievement id="48">
+		<Title>Deicide</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Defeated Veros.</Description>
+	</Achievement>
+	<Achievement id="47">
+		<Title>Vengeance at Last</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Defeated the Dreadknight.</Description>
+	</Achievement>
+	<Achievement id="46">
+		<Title>Ashen Assailant</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Ashen Chain.</Description>
+	</Achievement>
+	<Achievement id="45">
+		<Title>Amber Ace</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Amber Chain.</Description>
+	</Achievement>
+	<Achievement id="44">
+		<Title>Cerulean Savior</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Cerulean Chain.</Description>
+	</Achievement>
+	<Achievement id="43">
+		<Title>Crimson Crusader</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Crimson Chain.</Description>
+	</Achievement>
+	<Achievement id="42">
+		<Title>Orange Officer</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Orange Chain.</Description>
+	</Achievement>
+	<Achievement id="41">
+		<Title>Azure Avenger</Title>
+		<Image>https://live.xbox.com/tiles/zH/5e/1oCLiGJhbC9FFQUcXVJRGGRiL2FjaC8wLzEAAAAA5+fn+XF+1w==.jpg</Image>
+		<Description>Destroyed the Azure Chain.</Description>
+	</Achievement>
+</XblAchievements>
