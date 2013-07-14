@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1263405072">
+		<Title>Ninety-Nine Nights II/NA</Title>
+	</Game>
+	<Achievement id="21">
+		<Title>Five Weapons of Lore</Title>
+		<Image>https://live.xbox.com/tiles/3m/5t/0oCLiGJhbC9BCxtSGw1TWTEwL2FjaC8wLzE1AAAAAOfn5-1CbsI=.jpg</Image>
+		<Description>Obtained all level 5 weapons.</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Light Dancer</Title>
+		<Image>https://live.xbox.com/tiles/ko/zu/1YCLiGJhbC9FCxtSGw1TWTEwL2FjaC8wLzExAAAAAOfn5-rBjI4=.jpg</Image>
+		<Description>Obtained Sephia's level 5 weapon.</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Shadow Dancer</Title>
+		<Image>https://live.xbox.com/tiles/J4/XP/14CLiGJhbC9GCxtSGw1TWTEwL2FjaC8wLzEyAAAAAOfn5-jghTs=.jpg</Image>
+		<Description>Obtained Zazi's level 5 weapon.</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>Guardian</Title>
+		<Image>https://live.xbox.com/tiles/AX/QO/1ICLiGJhbC9ECxtSGw1TWTEwL2FjaC8wLzEwAAAAAOfn5-shdB0=.jpg</Image>
+		<Description>Obtained Galen's level 5 weapon.</Description>
+	</Achievement>
+	<Achievement id="20">
+		<Title>Fist of Judgment</Title>
+		<Image>https://live.xbox.com/tiles/TZ/aN/04CLiGJhbC9ACxtSGw1TWTEwL2FjaC8wLzE0AAAAAOfn5-yillE=.jpg</Image>
+		<Description>Obtained Maggni's level 5 weapon.</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Servant of Destruction</Title>
+		<Image>https://live.xbox.com/tiles/tH/0v/1oCLiGJhbC9HCxtSGw1TWTEwL2FjaC8wLzEzAAAAAOfn5-kAfag=.jpg</Image>
+		<Description>Obtained Levv's level 5 weapon.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Chameleon Apprentice</Title>
+		<Image>https://live.xbox.com/tiles/7W/30/04CLiGJhbC8RFQRNXAZRFzEwL2FjaC8wL2UAAAAA5+fn-Ntt9g==.jpg</Image>
+		<Description>Obtained a character color variation.</Description>
+	</Achievement>
+</XblAchievements>
