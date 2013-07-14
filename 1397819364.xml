@@ -55,4 +55,9 @@
 		<Image>https://live.xbox.com/tiles/7d/U0/0oCLiGJhbC8VFQUcXVJRGGU0L2FjaC8wL2EAAAAA5+fn-RvV9g==.jpg</Image>
 		<Description>Recognized the true threat to the world's future.</Description>
 	</Achievement>
+	<Achievement id="13">
+		<Title>Instrument of Hope</Title>
+		<Image>https://live.xbox.com/tiles/Ms/9X/1ICLiGJhbC8QFQUcXVJRGGU0L2FjaC8wL2QAAAAA5+fn+3jPKQ==.jpg</Image>
+		<Description>Traveled to the world below, seeking a way to alter fate.</Description>
+	</Achievement>
 </XblAchievements>
