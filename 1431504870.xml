@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1431504870">
+		<Title>Enchanted Arms</Title>
+	</Game>
+	<Achievement id="34">
+		<Title>Happy Ending</Title>
+		<Image>https://live.xbox.com/tiles/zj/qY/1oCLiGJhbC9GFQUaXVBRGGU2L2FjaC8wLzIAAAAA5+fn+bc61Q==.jpg</Image>
+		<Description>Happy Ending</Description>
+	</Achievement>
+	<Achievement id="33">
+		<Title>The End</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Queen of Ice at the Ice Castle.</Description>
+	</Achievement>
+	<Achievement id="32">
+		<Title>Decision</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Toya at the Ice Castle.</Description>
+	</Achievement>
+	<Achievement id="31">
+		<Title>Mystery</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Mystery Man in the Gravekeep Holm.</Description>
+	</Achievement>
+	<Achievement id="30">
+		<Title>Followers of Ice</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Siren at the Sage's Tower.</Description>
+	</Achievement>
+	<Achievement id="29">
+		<Title>Protector</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Odin at the Sage's Tower.</Description>
+	</Achievement>
+	<Achievement id="28">
+		<Title>Immovable</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Lord of Earth at the Ascetic Court.</Description>
+	</Achievement>
+	<Achievement id="27">
+		<Title>Suspicious Movement</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Tokimune Bodygurads at the Kyoto Castle.</Description>
+	</Achievement>
+	<Achievement id="26">
+		<Title>Attack</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Oboro in the Iwato Village.</Description>
+	</Achievement>
+	<Achievement id="25">
+		<Title>Change of Heart</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Sayaka in the Iwato Village.</Description>
+	</Achievement>
+	<Achievement id="24">
+		<Title>Rescue</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Oboro at the Ninja Hideout.</Description>
+	</Achievement>
+	<Achievement id="23">
+		<Title>De ja vu</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Sphinx in the White Flower Field.</Description>
+	</Achievement>
+	<Achievement id="22">
+		<Title>Purgatory</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Emperor of Fire at the Inferno Temple.</Description>
+	</Achievement>
+	<Achievement id="21">
+		<Title>Gurdian</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Poseidon at the Inferno Temple.</Description>
+	</Achievement>
+	<Achievement id="20">
+		<Title>Conclusion</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Ooka at the London Castle.</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Enmity</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Ooka in the Abandoned Mine.</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Betrayal</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Giggling Man in the Abandoned Mine.</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Unfathomable Enemy</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Minotaur in the Abandoned Mine.</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>Zeal</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Prof. Kou at the Magic Lab.</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Tragedy</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Cerberus at the Magic Lab.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>The Great Sea</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Aqua Jelly at Ragau Coast Wharf.</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>Great Forest</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Amazonia at Military Path.</Description>
+	</Achievement>
+	<Achievement id="12">
+		<Title>Out of Control</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Queen of Ice in the Sealed Ward.</Description>
+	</Achievement>
+	<Achievement id="11">
+		<Title>In the Dungeon</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Defeat Fire Golem in the Sealed Ward.</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>First Match</Title>
+		<Image>https://live.xbox.com/tiles/Xc/J4/14CLiGJhbC9HFQUaXVBRGGU2L2FjaC8wLzMAAAAA5+fn+FfCRg==.jpg</Image>
+		<Description>Battle against Yuki at the betting Golem Battle.</Description>
+	</Achievement>
+</XblAchievements>
