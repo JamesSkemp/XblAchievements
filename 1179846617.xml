@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1179846617">
+		<Title>NINJA BLADE</Title>
+	</Game>
+	<Achievement id="9">
+		<Title>Pass the Torch</Title>
+		<Image>https://live.xbox.com/tiles/XC/SV/04CLiGJhbC9NFQQZXVBRGGQ5L2FjaC8wLzkAAAAA5+fn-LokRw==.jpg</Image>
+		<Description>Completed Mission 009 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="8">
+		<Title>Prepare for Glory</Title>
+		<Image>https://live.xbox.com/tiles/z9/x1/0oCLiGJhbC9MFQQZXVBRGGQ5L2FjaC8wLzgAAAAA5+fn-Vrc1A==.jpg</Image>
+		<Description>Completed Mission 008 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="7">
+		<Title>Déjà Vu</Title>
+		<Image>https://live.xbox.com/tiles/wc/hS/0YCLiGJhbC9DFQQZXVBRGGQ5L2FjaC8wLzcAAAAA5+fn-n3I2g==.jpg</Image>
+		<Description>Completed Mission 007 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="6">
+		<Title>Oni Hanzo</Title>
+		<Image>https://live.xbox.com/tiles/Uj/Cy/0ICLiGJhbC9CFQQZXVBRGGQ5L2FjaC8wLzYAAAAA5+fn-50wSQ==.jpg</Image>
+		<Description>Completed Mission 006 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="5">
+		<Title>There's Always a Bigger Bug</Title>
+		<Image>https://live.xbox.com/tiles/5z/mT/0oCLiGJhbC9BFQQZXVBRGGQ5L2FjaC8wLzUAAAAA5+fn-bw5-A==.jpg</Image>
+		<Description>Completed Mission 005 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="4">
+		<Title>In the Event of an Emergency...</Title>
+		<Image>https://live.xbox.com/tiles/dM/Fz/04CLiGJhbC9AFQQZXVBRGGQ5L2FjaC8wLzQAAAAA5+fn-FzBbw==.jpg</Image>
+		<Description>In the Event of an Emergency...</Description>
+	</Achievement>
+	<Achievement id="3">
+		<Title>Family Ties</Title>
+		<Image>https://live.xbox.com/tiles/jS/rR/1oCLiGJhbC9HFQQZXVBRGGQ5L2FjaC8wLzMAAAAA5+fn+f4qlg==.jpg</Image>
+		<Description>Completed Mission 003 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="2">
+		<Title>Two-Wheel Daredevil</Title>
+		<Image>https://live.xbox.com/tiles/Ht/Ix/14CLiGJhbC9GFQQZXVBRGGQ5L2FjaC8wLzIAAAAA5+fn+B7SBQ==.jpg</Image>
+		<Description>Completed Mission 002 on any difficulty.</Description>
+	</Achievement>
+	<Achievement id="1">
+		<Title>Only a Ninja Can Stop a Ninja</Title>
+		<Image>https://live.xbox.com/tiles/q9/sQ/1YCLiGJhbC9FFQQZXVBRGGQ5L2FjaC8wLzEAAAAA5+fn+j-bsA==.jpg</Image>
+		<Description>Completed Mission 001 on any difficulty.</Description>
+	</Achievement>
+</XblAchievements>
