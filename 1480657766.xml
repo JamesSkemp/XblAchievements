@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1480657766">
+		<Title>Bastion</Title>
+	</Game>
+	<Achievement id="18">
+		<Title>The Beginning</Title>
+		<Image>https://live.xbox.com/tiles/9Z/+l/1ICLiGJhbC9BCxoIG1lTAzY2L2FjaC8wLzE1AAAAAOfn5-uKn+k=.jpg</Image>
+		<Description>Complete the story, embracing the New World.</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>The Ura</Title>
+		<Image>https://live.xbox.com/tiles/n4/zn/0ICLiGJhbC9HCxoIG1lTAzY2L2FjaC8wLzEzAAAAAOfn5--IjIM=.jpg</Image>
+		<Description>Stop the siege on the Bastion.</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>The Singer</Title>
+		<Image>https://live.xbox.com/tiles/+u/Rv/0YCLiGJhbC8QFQUXXFJRTTY2L2FjaC8wL2QAAAAA5+fn-kDk4Q==.jpg</Image>
+		<Description>Complete Prosper Bluff and speak with the Singer in the Bastion.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>The Survivor</Title>
+		<Image>https://live.xbox.com/tiles/3B/Wu/0oCLiGJhbC8SFQUXXFJRTTY2L2FjaC8wL2YAAAAA5+fn-YEVxw==.jpg</Image>
+		<Description>Complete the Hanging Gardens and speak with the Survivor in the Bastion.</Description>
+	</Achievement>
+</XblAchievements>
