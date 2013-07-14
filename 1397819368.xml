@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1397819368">
+		<Title>NIER</Title>
+	</Game>
+	<Achievement id="19">
+		<Title>Something Very Special</Title>
+		<Image>https://live.xbox.com/tiles/vw/lX/0oCLiGJhbC9GCxoDGllTVmU4L2FjaC8wLzEyAAAAAOfn5-14CaM=.jpg</Image>
+		<Description>You viewed the fourth ending (Ending D).</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Thank You</Title>
+		<Image>https://live.xbox.com/tiles/Cg/B2/0ICLiGJhbC9FCxoDGllTVmU4L2FjaC8wLzExAAAAAOfn5-9ZABY=.jpg</Image>
+		<Description>You viewed the third ending (Ending C).</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Lingering Memories</Title>
+		<Image>https://live.xbox.com/tiles/mf/iW/0YCLiGJhbC9ECxoDGllTVmU4L2FjaC8wLzEwAAAAAOfn5-65+IU=.jpg</Image>
+		<Description>You viewed the second ending (Ending B).</Description>
+	</Achievement>
+	<Achievement id="22">
+		<Title>A Round by the Pond</Title>
+		<Image>https://live.xbox.com/tiles/1R/oV/1oCLiGJhbC9ACxoDGllTVmU4L2FjaC8wLzE0AAAAAOfn5-k6Gsk=.jpg</Image>
+		<Description>You caught one of every type of fish.</Description>
+	</Achievement>
+	<Achievement id="21">
+		<Title>Fish of Legend</Title>
+		<Image>https://live.xbox.com/tiles/1R/oV/1oCLiGJhbC9ACxoDGllTVmU4L2FjaC8wLzE0AAAAAOfn5-k6Gsk=.jpg</Image>
+		<Description>You caught a rhizodont.</Description>
+	</Achievement>
+	<Achievement id="24">
+		<Title>Upgrade Apprentice</Title>
+		<Image>https://live.xbox.com/tiles/8+/vU/1YCLiGJhbC9CCxoDGllTVmU4L2FjaC8wLzE2AAAAAOfn5-r76+8=.jpg</Image>
+		<Description>You upgraded 5 weapons to their maximum level.</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>Call Her Back</Title>
+		<Image>https://live.xbox.com/tiles/-B/Aa/0oCLiGJhbC8SFQUcXVJRGGU4L2FjaC8wL2YAAAAA5+fn-TUQ5w==.jpg</Image>
+		<Description>You viewed the first ending (Ending A).</Description>
+	</Achievement>
+	<Achievement id="5">
+		<Title>A World in Flux</Title>
+		<Image>https://live.xbox.com/tiles/p7/Cw/14CLiGJhbC9CFQUcXVJRGGU4L2FjaC8wLzYAAAAA5+fn+J+wvA==.jpg</Image>
+		<Description>You defeated the Shadowlord.</Description>
+	</Achievement>
+	<Achievement id="4">
+		<Title>Key Collector</Title>
+		<Image>https://live.xbox.com/tiles/Er/mR/1YCLiGJhbC9BFQUcXVJRGGU4L2FjaC8wLzUAAAAA5+fn+r65CQ==.jpg</Image>
+		<Description>You unlocked the key to the Shadowlord's castle.</Description>
+	</Achievement>
+	<Achievement id="3">
+		<Title>Release</Title>
+		<Image>https://live.xbox.com/tiles/gU/Fx/1ICLiGJhbC9AFQUcXVJRGGU4L2FjaC8wLzQAAAAA5+fn+15Bmg==.jpg</Image>
+		<Description>You freed Kainé from her petrification.</Description>
+	</Achievement>
+	<Achievement id="2">
+		<Title>The Mellow Companion</Title>
+		<Image>https://live.xbox.com/tiles/eK/rT/0YCLiGJhbC9HFQUcXVJRGGU4L2FjaC8wLzMAAAAA5+fn-vyqYw==.jpg</Image>
+		<Description>Emil joined your party.</Description>
+	</Achievement>
+	<Achievement id="27">
+		<Title>All Aboared!</Title>
+		<Image>https://live.xbox.com/tiles/Ru/L1/14CLiGJhbC9BCxoDGllTVmU4L2FjaC8wLzE1AAAAAOfn5-ja4lo=.jpg</Image>
+		<Description>You rode a boar for at least five minutes.</Description>
+	</Achievement>
+	<Achievement id="23">
+		<Title>Material Hunter</Title>
+		<Image>https://live.xbox.com/tiles/Ru/L1/14CLiGJhbC9BCxoDGllTVmU4L2FjaC8wLzE1AAAAAOfn5-ja4lo=.jpg</Image>
+		<Description>You collected 50 types of raw materials.</Description>
+	</Achievement>
+	<Achievement id="1">
+		<Title>The Wild Companion</Title>
+		<Image>https://live.xbox.com/tiles/61/Iz/0ICLiGJhbC9GFQUcXVJRGGU4L2FjaC8wLzIAAAAA5+fn-xxS8A==.jpg</Image>
+		<Description>Kainé joined your party.</Description>
+	</Achievement>
+	<Achievement id="0">
+		<Title>The Book of Legend</Title>
+		<Image>https://live.xbox.com/tiles/Xl/sS/0oCLiGJhbC9FFQUcXVJRGGU4L2FjaC8wLzEAAAAA5+fn-T1bRQ==.jpg</Image>
+		<Description>Grimoire Weiss joined your party.</Description>
+	</Achievement>
+	<Achievement id="28">
+		<Title>The Sheep Whisperer</Title>
+		<Image>https://live.xbox.com/tiles/Ua/Dc/1YCLiGJhbC8VCxoDGllTVmU4L2FjaC8wLzFhAAAAAOfn5-rzoE0=.jpg</Image>
+		<Description>You killed 100 sheep.</Description>
+	</Achievement>
+</XblAchievements>
