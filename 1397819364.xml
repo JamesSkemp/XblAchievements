@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1397819364">
+		<Title>FINAL FANTASY XIII</Title>
+	</Game>
+	<Achievement id="1">
+		<Title>Instrument of Fate</Title>
+		<Image>https://live.xbox.com/tiles/tn/We/14CLiGJhbC9FFQUcXVJRGGU0L2FjaC8wLzEAAAAA5+fn+LF1rQ==.jpg</Image>
+		<Description>Took the first steps toward challenging an unjust fate.</Description>
+	</Achievement>
+	<Achievement id="2">
+		<Title>Instrument of Dissent</Title>
+		<Image>https://live.xbox.com/tiles/A3/y-/1YCLiGJhbC9GFQUcXVJRGGU0L2FjaC8wLzIAAAAA5+fn+pB8GA==.jpg</Image>
+		<Description>Survived the Purge to confront a greater peril.</Description>
+	</Achievement>
+	<Achievement id="3">
+		<Title>Instrument of Tragedy</Title>
+		<Image>https://live.xbox.com/tiles/kI/Rf/1ICLiGJhbC9HFQUcXVJRGGU0L2FjaC8wLzMAAAAA5+fn+3CEiw==.jpg</Image>
+		<Description>Strode into danger's den and paid the consequences.</Description>
+	</Achievement>
+	<Achievement id="4">
+		<Title>Instrument of Flight</Title>
+		<Image>https://live.xbox.com/tiles/aW/-9/0YCLiGJhbC9AFQUcXVJRGGU0L2FjaC8wLzQAAAAA5+fn-tJvcg==.jpg</Image>
+		<Description>Slipped through the net and lived to fight another day.</Description>
+	</Achievement>
+	<Achievement id="5">
+		<Title>Instrument of Vengeance</Title>
+		<Image>https://live.xbox.com/tiles/+p/cd/0ICLiGJhbC9BFQUcXVJRGGU0L2FjaC8wLzUAAAAA5+fn-zKX4Q==.jpg</Image>
+		<Description>Resolved to be more than a victim of circumstance.</Description>
+	</Achievement>
+	<Achievement id="6">
+		<Title>Instrument of Survival</Title>
+		<Image>https://live.xbox.com/tiles/T5/48/0oCLiGJhbC9CFQUcXVJRGGU0L2FjaC8wLzYAAAAA5+fn-ROeVA==.jpg</Image>
+		<Description>Evaded pursuers, though memories of the past still gave chase.</Description>
+	</Achievement>
+	<Achievement id="7">
+		<Title>Instrument of Rebellion</Title>
+		<Image>https://live.xbox.com/tiles/3G/bc/04CLiGJhbC9DFQUcXVJRGGU0L2FjaC8wLzcAAAAA5+fn-PNmxw==.jpg</Image>
+		<Description>Made plans to infiltrate enemy-occupied territory.</Description>
+	</Achievement>
+	<Achievement id="8">
+		<Title>Instrument of Shame</Title>
+		<Image>https://live.xbox.com/tiles/0n/L7/0ICLiGJhbC9MFQUcXVJRGGU0L2FjaC8wLzgAAAAA5+fn-9RyyQ==.jpg</Image>
+		<Description>Carried the burden of guilt to the end of the line.</Description>
+	</Achievement>
+	<Achievement id="9">
+		<Title>Instrument of Wrath</Title>
+		<Image>https://live.xbox.com/tiles/QY/ob/0YCLiGJhbC9NFQUcXVJRGGU0L2FjaC8wLzkAAAAA5+fn-jSKWg==.jpg</Image>
+		<Description>Took the fight to the enemy's door.</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>Instrument of Truth</Title>
+		<Image>https://live.xbox.com/tiles/7d/U0/0oCLiGJhbC8VFQUcXVJRGGU0L2FjaC8wL2EAAAAA5+fn-RvV9g==.jpg</Image>
+		<Description>Recognized the true threat to the world's future.</Description>
+	</Achievement>
+</XblAchievements>
