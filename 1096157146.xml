@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1096157146">
+		<Title>Marvel Ult. Alliance</Title>
+	</Game>
+	<Achievement id="29">
+		<Title>Legendary Super Hero</Title>
+		<Image>https://live.xbox.com/tiles/o1/JZ/1YCLiGJhbC8QCxsBGl5TVmRhL2FjaC8wLzFkAAAAAOfn5-p2Ur8=.jpg</Image>
+		<Description>Defeated 100 enemies.</Description>
+	</Achievement>
+	<Achievement id="28">
+		<Title>Fledgling Super Hero</Title>
+		<Image>https://live.xbox.com/tiles/Wr/n7/0ICLiGJhbC8XCxsBGl5TVmRhL2FjaC8wLzFjAAAAAOfn5--UuUY=.jpg</Image>
+		<Description>Defeated 10 enemies.</Description>
+	</Achievement>
+</XblAchievements>
