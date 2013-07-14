@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1297287135">
+		<Title>Blue Dragon</Title>
+	</Game>
+	<Achievement id="35">
+		<Title>Got All Dragon Items</Title>
+		<Image>https://live.xbox.com/tiles/eW/pB/14CLiGJhbC9CFQRLXVBRGGRmL2FjaC8wLzYAAAAA5+fn+G5qYg==.jpg</Image>
+		<Description>You got all of the dragon items.</Description>
+	</Achievement>
+	<Achievement id="26">
+		<Title>Killer Bat: Max One Class</Title>
+		<Image>https://live.xbox.com/tiles/zG/Ng/1YCLiGJhbC9BFQRLXVBRGGRmL2FjaC8wLzUAAAAA5+fn+k9j1w==.jpg</Image>
+		<Description>You achieved the highest rank for one class of the Killer Bat Shadow.</Description>
+	</Achievement>
+	<Achievement id="25">
+		<Title>Saber-Tooth: Max One Class</Title>
+		<Image>https://live.xbox.com/tiles/zG/Ng/1YCLiGJhbC9BFQRLXVBRGGRmL2FjaC8wLzUAAAAA5+fn+k9j1w==.jpg</Image>
+		<Description>You achieved the highest rank for one class of the Saber-Tooth Shadow.</Description>
+	</Achievement>
+	<Achievement id="33">
+		<Title>Equipped All Mechat Parts</Title>
+		<Image>https://live.xbox.com/tiles/eW/pB/14CLiGJhbC9CFQRLXVBRGGRmL2FjaC8wLzYAAAAA5+fn+G5qYg==.jpg</Image>
+		<Description>You got all of the mechat part types and completed all enhancements.</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>Mechat Shooting Stage 2: Perfect</Title>
+		<Image>https://live.xbox.com/tiles/X5/uA/1ICLiGJhbC9AFQRLXVBRGGRmL2FjaC8wLzQAAAAA5+fn+6+bRA==.jpg</Image>
+		<Description>You destroyed all the mechat base machine guns in Mechat Shooting Stage 2.</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>Summoned Shu's Shadow</Title>
+		<Image>https://live.xbox.com/tiles/pn/Ai/0YCLiGJhbC9HFQRLXVBRGGRmL2FjaC8wLzMAAAAA5+fn-g1wvQ==.jpg</Image>
+		<Description>You summoned Shu's Shadow.</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Got to Nene Before Bomb Went Off</Title>
+		<Image>https://live.xbox.com/tiles/pn/Ai/0YCLiGJhbC9HFQRLXVBRGGRmL2FjaC8wLzMAAAAA5+fn-g1wvQ==.jpg</Image>
+		<Description>You arrived at Nene's location before the time bomb went off.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Rescued Kluke</Title>
+		<Image>https://live.xbox.com/tiles/pn/Ai/0YCLiGJhbC9HFQRLXVBRGGRmL2FjaC8wLzMAAAAA5+fn-g1wvQ==.jpg</Image>
+		<Description>You rescued Kluke without falling.</Description>
+	</Achievement>
+	<Achievement id="11">
+		<Title>Pulled in the Flying Fortress</Title>
+		<Image>https://live.xbox.com/tiles/pn/Ai/0YCLiGJhbC9HFQRLXVBRGGRmL2FjaC8wLzMAAAAA5+fn-g1wvQ==.jpg</Image>
+		<Description>You helped pull in the Flying Fortress without angering the Gorgo giants.</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>Closed Flying Fortress Door</Title>
+		<Image>https://live.xbox.com/tiles/pn/Ai/0YCLiGJhbC9HFQRLXVBRGGRmL2FjaC8wLzMAAAAA5+fn-g1wvQ==.jpg</Image>
+		<Description>You closed the Flying Fortress door without fighting the mecha robos.</Description>
+	</Achievement>
+</XblAchievements>
