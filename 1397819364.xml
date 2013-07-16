@@ -60,4 +60,9 @@
 		<Image>https://live.xbox.com/tiles/Ms/9X/1ICLiGJhbC8QFQUcXVJRGGU0L2FjaC8wL2QAAAAA5+fn+3jPKQ==.jpg</Image>
 		<Description>Traveled to the world below, seeking a way to alter fate.</Description>
 	</Achievement>
+	<Achievement id="16">
+		<Title>Kelger's Cup</Title>
+		<Image>https://live.xbox.com/tiles/AB/y2/1ICLiGJhbC9ECxoDGllTVmU0L2FjaC8wLzEwAAAAAOfn5-uZHBw=.jpg</Image>
+		<Description>Completed all low-level Cie'th Stone missions.</Description>
+	</Achievement>
 </XblAchievements>
