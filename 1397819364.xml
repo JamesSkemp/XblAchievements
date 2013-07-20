@@ -55,10 +55,20 @@
 		<Image>https://live.xbox.com/tiles/7d/U0/0oCLiGJhbC8VFQUcXVJRGGU0L2FjaC8wL2EAAAAA5+fn-RvV9g==.jpg</Image>
 		<Description>Recognized the true threat to the world's future.</Description>
 	</Achievement>
+	<Achievement id="11">
+		<Title>Instrument of Faith</Title>
+		<Image>https://live.xbox.com/tiles/WN/wV/0ICLiGJhbC8WFQUcXVJRGGU0L2FjaC8wL2IAAAAA5+fn-zrcQw==.jpg</Image>
+		<Description>Defied destiny's charge and embarked on a different path.</Description>
+	</Achievement>
 	<Achievement id="13">
 		<Title>Instrument of Hope</Title>
 		<Image>https://live.xbox.com/tiles/Ms/9X/1ICLiGJhbC8QFQUcXVJRGGU0L2FjaC8wL2QAAAAA5+fn+3jPKQ==.jpg</Image>
 		<Description>Traveled to the world below, seeking a way to alter fate.</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Pulsian Pioneer</Title>
+		<Image>https://live.xbox.com/tiles/oT/e3/1YCLiGJhbC8RFQUcXVJRGGU0L2FjaC8wL2UAAAAA5+fn+pg3ug==.jpg</Image>
+		<Description>Took over 10,000 steps on the lowerworld surface.</Description>
 	</Achievement>
 	<Achievement id="16">
 		<Title>Kelger's Cup</Title>
