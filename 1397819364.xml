@@ -70,6 +70,11 @@
 		<Image>https://live.xbox.com/tiles/oT/e3/1YCLiGJhbC8RFQUcXVJRGGU0L2FjaC8wL2UAAAAA5+fn+pg3ug==.jpg</Image>
 		<Description>Took over 10,000 steps on the lowerworld surface.</Description>
 	</Achievement>
+	<Achievement id="15">
+		<Title>Gysahl Wreath</Title>
+		<Image>https://live.xbox.com/tiles/FD/6W/14CLiGJhbC8SFQUcXVJRGGU0L2FjaC8wL2YAAAAA5+fn+Lk+Dw==.jpg</Image>
+		<Description>Discovered buried treasure with a little help from a chocobo.</Description>
+	</Achievement>
 	<Achievement id="16">
 		<Title>Kelger's Cup</Title>
 		<Image>https://live.xbox.com/tiles/AB/y2/1ICLiGJhbC9ECxoDGllTVmU0L2FjaC8wLzEwAAAAAOfn5-uZHBw=.jpg</Image>
