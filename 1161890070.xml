@@ -10,9 +10,39 @@
 		<Image>https://live.xbox.com/tiles/Mf/oA/1ICLiGJhbC9HFQQaXFJRFjE2L2FjaC8wLzMAAAAA5+fn+y-6Kg==.jpg</Image>
 		<Description>Back to Wonderland</Description>
 	</Achievement>
+	<Achievement id="2">
+		<Title>End of Innocence</Title>
+		<Image>https://live.xbox.com/tiles/yB/Gi/0YCLiGJhbC9AFQQaXFJRFjE2L2FjaC8wLzQAAAAA5+fn-o0R0w==.jpg</Image>
+		<Description>Complete Vale of Tears</Description>
+	</Achievement>
+	<Achievement id="3">
+		<Title>Hatter's Demise</Title>
+		<Image>https://live.xbox.com/tiles/W+/lC/0ICLiGJhbC9BFQQaXFJRFjE2L2FjaC8wLzUAAAAA5+fn-23pQA==.jpg</Image>
+		<Description>Complete Wonderland Chapter 1</Description>
+	</Achievement>
 	<Achievement id="13">
 		<Title>Snicker-snack!</Title>
 		<Image>https://live.xbox.com/tiles/tU/DJ/14CLiGJhbC8SFQQaXFJRFjE2L2FjaC8wL2YAAAAA5+fn+OZArg==.jpg</Image>
 		<Description>Acquire the Vorpal Blade</Description>
+	</Achievement>
+	<Achievement id="14">
+		<Title>Ground Pork</Title>
+		<Image>https://live.xbox.com/tiles/6K/EE/1YCLiGJhbC9ECxsFG1lTWDE2L2FjaC8wLzEwAAAAAOfn5-orofQ=.jpg</Image>
+		<Description>Acquire the Pepper Grinder</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Strange Hobby</Title>
+		<Image>https://live.xbox.com/tiles/e1/nk/1ICLiGJhbC9FCxsFG1lTWDE2L2FjaC8wLzExAAAAAOfn5-vLWWc=.jpg</Image>
+		<Description>Acquire the Hobby Horse</Description>
+	</Achievement>
+	<Achievement id="17">
+		<Title>Strike a Deal</Title>
+		<Image>https://live.xbox.com/tiles/Xa/gl/14CLiGJhbC9HCxsFG1lTWDE2L2FjaC8wLzEzAAAAAOfn5-gKqEE=.jpg</Image>
+		<Description>Upgrade a Weapon</Description>
+	</Achievement>
+	<Achievement id="18">
+		<Title>More than a Mouthful</Title>
+		<Image>https://live.xbox.com/tiles/pE/OH/0oCLiGJhbC9ACxsFG1lTWDE2L2FjaC8wLzE0AAAAAOfn5-2oQ7g=.jpg</Image>
+		<Description>Fully upgrade a weapon</Description>
 	</Achievement>
 </XblAchievements>
