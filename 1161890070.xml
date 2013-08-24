@@ -20,6 +20,11 @@
 		<Image>https://live.xbox.com/tiles/W+/lC/0ICLiGJhbC9BFQQaXFJRFjE2L2FjaC8wLzUAAAAA5+fn-23pQA==.jpg</Image>
 		<Description>Complete Wonderland Chapter 1</Description>
 	</Achievement>
+	<Achievement id="4">
+		<Title>Grim Folly</Title>
+		<Image>https://live.xbox.com/tiles/7u/Bj/0oCLiGJhbC9CFQQaXFJRFjE2L2FjaC8wLzYAAAAA5+fn-Uzg9Q==.jpg</Image>
+		<Description>Complete Wonderland Chapter 2</Description>
+	</Achievement>
 	<Achievement id="13">
 		<Title>Snicker-snack!</Title>
 		<Image>https://live.xbox.com/tiles/tU/DJ/14CLiGJhbC8SFQQaXFJRFjE2L2FjaC8wL2YAAAAA5+fn+OZArg==.jpg</Image>
