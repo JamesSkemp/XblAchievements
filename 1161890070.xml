@@ -25,6 +25,11 @@
 		<Image>https://live.xbox.com/tiles/7u/Bj/0oCLiGJhbC9CFQQaXFJRFjE2L2FjaC8wLzYAAAAA5+fn-Uzg9Q==.jpg</Image>
 		<Description>Complete Wonderland Chapter 2</Description>
 	</Achievement>
+	<Achievement id="5">
+		<Title>When Worlds Collide</Title>
+		<Image>https://live.xbox.com/tiles/fR/iD/04CLiGJhbC9DFQQaXFJRFjE2L2FjaC8wLzcAAAAA5+fn-KwYZg==.jpg</Image>
+		<Description>Complete Wonderland Chapter 3</Description>
+	</Achievement>
 	<Achievement id="13">
 		<Title>Snicker-snack!</Title>
 		<Image>https://live.xbox.com/tiles/tU/DJ/14CLiGJhbC8SFQQaXFJRFjE2L2FjaC8wL2YAAAAA5+fn+OZArg==.jpg</Image>
@@ -40,6 +45,11 @@
 		<Image>https://live.xbox.com/tiles/e1/nk/1ICLiGJhbC9FCxsFG1lTWDE2L2FjaC8wLzExAAAAAOfn5-vLWWc=.jpg</Image>
 		<Description>Acquire the Hobby Horse</Description>
 	</Achievement>
+	<Achievement id="16">
+		<Title>Death by Darjeeling</Title>
+		<Image>https://live.xbox.com/tiles/zl/DF/1oCLiGJhbC9GCxsFG1lTWDE2L2FjaC8wLzEyAAAAAOfn5-nqUNI=.jpg</Image>
+		<Description>Acquire the Teapot Cannon</Description>
+	</Achievement>
 	<Achievement id="17">
 		<Title>Strike a Deal</Title>
 		<Image>https://live.xbox.com/tiles/Xa/gl/14CLiGJhbC9HCxsFG1lTWDE2L2FjaC8wLzEzAAAAAOfn5-gKqEE=.jpg</Image>
@@ -49,5 +59,10 @@
 		<Title>More than a Mouthful</Title>
 		<Image>https://live.xbox.com/tiles/pE/OH/0oCLiGJhbC9ACxsFG1lTWDE2L2FjaC8wLzE0AAAAAOfn5-2oQ7g=.jpg</Image>
 		<Description>Fully upgrade a weapon</Description>
+	</Achievement>
+	<Achievement id="33">
+		<Title>Neighslayer</Title>
+		<Image>https://live.xbox.com/tiles/9J/g3/1YCLiGJhbC9HCBsFG1lTWDE2L2FjaC8wLzIzAAAAAOfn5-oYmOg=.jpg</Image>
+		<Description>Hit 4 Enemies With a Single Hobby Horse Ground Smash</Description>
 	</Achievement>
 </XblAchievements>
