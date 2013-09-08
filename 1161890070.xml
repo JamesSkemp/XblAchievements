@@ -30,6 +30,11 @@
 		<Image>https://live.xbox.com/tiles/fR/iD/04CLiGJhbC9DFQQaXFJRFjE2L2FjaC8wLzcAAAAA5+fn-KwYZg==.jpg</Image>
 		<Description>Complete Wonderland Chapter 3</Description>
 	</Achievement>
+	<Achievement id="6">
+		<Title>The Harder They Fall</Title>
+		<Image>https://live.xbox.com/tiles/cw/yk/0ICLiGJhbC9MFQQaXFJRFjE2L2FjaC8wLzgAAAAA5+fn-4sMaA==.jpg</Image>
+		<Description>Complete Wonderland Chapter 4</Description>
+	</Achievement>
 	<Achievement id="13">
 		<Title>Snicker-snack!</Title>
 		<Image>https://live.xbox.com/tiles/tU/DJ/14CLiGJhbC8SFQQaXFJRFjE2L2FjaC8wL2YAAAAA5+fn+OZArg==.jpg</Image>
@@ -59,6 +64,11 @@
 		<Title>More than a Mouthful</Title>
 		<Image>https://live.xbox.com/tiles/pE/OH/0oCLiGJhbC9ACxsFG1lTWDE2L2FjaC8wLzE0AAAAAOfn5-2oQ7g=.jpg</Image>
 		<Description>Fully upgrade a weapon</Description>
+	</Achievement>
+	<Achievement id="19">
+		<Title>Armed to the Teeth</Title>
+		<Image>https://live.xbox.com/tiles/N7/tn/04CLiGJhbC9BCxsFG1lTWDE2L2FjaC8wLzE1AAAAAOfn5-xIuys=.jpg</Image>
+		<Description>Fully upgrade all weapons</Description>
 	</Achievement>
 	<Achievement id="33">
 		<Title>Neighslayer</Title>
