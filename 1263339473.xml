@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1263339473">
+		<Title>Sacred 2 Fallen Angel</Title>
+	</Game>
+	<Achievement id="40">
+		<Title>Combologist</Title>
+		<Image>https://live.xbox.com/tiles/rz/u+/0YCLiGJhbC8XCBtSGwxTVmQxL2FjaC8wLzJjAAAAAOfn5-6RO7M=.jpg</Image>
+		<Description>Any Hero has executed his first combination.</Description>
+	</Achievement>
+	<Achievement id="44">
+		<Title>Beam me up!</Title>
+		<Image>https://live.xbox.com/tiles/Bg/us/04CLiGJhbC8XCxtSGwxTVmQxL2FjaC8wLzFjAAAAAOfn5-yDCxo=.jpg</Image>
+		<Description>You have used a teleporter for the first time.</Description>
+	</Achievement>
+	<Achievement id="52">
+		<Title>Reputable</Title>
+		<Image>https://live.xbox.com/tiles/2R/HP/1YCLiGJhbC8SCxtSGwxTVmQxL2FjaC8wLzFmAAAAAOfn5-rgEcU=.jpg</Image>
+		<Description>Any Hero attaining Level 5.</Description>
+	</Achievement>
+</XblAchievements>
