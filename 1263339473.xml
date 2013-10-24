@@ -10,10 +10,20 @@
 		<Image>https://live.xbox.com/tiles/rz/u+/0YCLiGJhbC8XCBtSGwxTVmQxL2FjaC8wLzJjAAAAAOfn5-6RO7M=.jpg</Image>
 		<Description>Any Hero has executed his first combination.</Description>
 	</Achievement>
+	<Achievement id="41">
+		<Title>Easy Rider</Title>
+		<Image>https://live.xbox.com/tiles/PM/Ne/0ICLiGJhbC8WCBtSGwxTVmQxL2FjaC8wLzJiAAAAAOfn5-9xwyA=.jpg</Image>
+		<Description>Any Hero rides his special mount for the first time.</Description>
+	</Achievement>
 	<Achievement id="44">
 		<Title>Beam me up!</Title>
 		<Image>https://live.xbox.com/tiles/Bg/us/04CLiGJhbC8XCxtSGwxTVmQxL2FjaC8wLzFjAAAAAOfn5-yDCxo=.jpg</Image>
 		<Description>You have used a teleporter for the first time.</Description>
+	</Achievement>
+	<Achievement id="47">
+		<Title>Dragonslayer</Title>
+		<Image>https://live.xbox.com/tiles/H1/2i/0oCLiGJhbC9MCxtSGwxTVmQxL2FjaC8wLzE4AAAAAOfn5-2NXQM=.jpg</Image>
+		<Description>Any Hero has slain five Dragons.</Description>
 	</Achievement>
 	<Achievement id="52">
 		<Title>Reputable</Title>
