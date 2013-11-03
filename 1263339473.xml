@@ -15,6 +15,11 @@
 		<Image>https://live.xbox.com/tiles/PM/Ne/0ICLiGJhbC8WCBtSGwxTVmQxL2FjaC8wLzJiAAAAAOfn5-9xwyA=.jpg</Image>
 		<Description>Any Hero rides his special mount for the first time.</Description>
 	</Achievement>
+	<Achievement id="43">
+		<Title>Lone Ranger</Title>
+		<Image>https://live.xbox.com/tiles/-+/AO/1oCLiGJhbC8QCxtSGwxTVmQxL2FjaC8wLzFkAAAAAOfn5-kh4OM=.jpg</Image>
+		<Description>Any Hero traveled a distance of 200 miles on his special mount.</Description>
+	</Achievement>
 	<Achievement id="44">
 		<Title>Beam me up!</Title>
 		<Image>https://live.xbox.com/tiles/Bg/us/04CLiGJhbC8XCxtSGwxTVmQxL2FjaC8wLzFjAAAAAOfn5-yDCxo=.jpg</Image>
