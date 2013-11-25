@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1431505036">
+		<Title>Far Cry 3</Title>
+	</Game>
+	<Achievement id="2">
+		<Title>Magic Mushroom</Title>
+		<Image>https://live.xbox.com/tiles/pv/c2/1YCLiGJhbC9DDgQaBRxYW1ljL2FjaC8wLzE0NwAAAADn5+f6Gfe7.jpg</Image>
+		<Description>Return to the doctor with the cave mushrooms.</Description>
+	</Achievement>
+	<Achievement id="1">
+		<Title>First Blood</Title>
+		<Image>https://live.xbox.com/tiles/zO/R0/0YCLiGJhbC9FDgQaBRxYW1ljL2FjaC8wLzE0MQAAAADn5+f+W+TR.jpg</Image>
+		<Description>Escape the pirates and survive in the wilderness.</Description>
+	</Achievement>
+</XblAchievements>
