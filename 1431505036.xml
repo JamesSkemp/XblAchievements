@@ -5,6 +5,16 @@
 	<Game id="1431505036">
 		<Title>Far Cry 3</Title>
 	</Game>
+	<Achievement id="5">
+		<Title>One of Us</Title>
+		<Image>https://live.xbox.com/tiles/qO/MR/1oCLiGJhbC9MDgQaBRxYW1ljL2FjaC8wLzE0OAAAAADn5+f5PuO1.jpg</Image>
+		<Description>Complete the Rakyat initiation.</Description>
+	</Achievement>
+	<Achievement id="3">
+		<Title>Worst Date Ever</Title>
+		<Image>https://live.xbox.com/tiles/26/Zd/04CLiGJhbC8RDgQaBRxYW1ljL2FjaC8wLzE0ZQAAAADn5+f8cqbG.jpg</Image>
+		<Description>Rescue Liza from the burning building.</Description>
+	</Achievement>
 	<Achievement id="2">
 		<Title>Magic Mushroom</Title>
 		<Image>https://live.xbox.com/tiles/pv/c2/1YCLiGJhbC9DDgQaBRxYW1ljL2FjaC8wLzE0NwAAAADn5+f6Gfe7.jpg</Image>
