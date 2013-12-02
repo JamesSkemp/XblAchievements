@@ -5,6 +5,31 @@
 	<Game id="1431505036">
 		<Title>Far Cry 3</Title>
 	</Game>
+	<Achievement id="11">
+		<Title>Higher Than a Kite</Title>
+		<Image>https://live.xbox.com/tiles/gA/b3/1oCLiGJhbC9BDgQaBRxYW1ljL2FjaC8wLzE0NQAAAADn5+f52Aad.jpg</Image>
+		<Description>Use your wingsuit to reach the Southern island.</Description>
+	</Achievement>
+	<Achievement id="10">
+		<Title>Taken for Granted</Title>
+		<Image>https://live.xbox.com/tiles/sb/Uf/14CLiGJhbC8XDgQaBRxYW1ljL2FjaC8wLzE0YwAAAADn5+f4MLWs.jpg</Image>
+		<Description>Kill Vaas.</Description>
+	</Achievement>
+	<Achievement id="9">
+		<Title>Have I Told You?</Title>
+		<Image>https://live.xbox.com/tiles/E-/4X/14CLiGJhbC9ADgQaBRxYW1ljL2FjaC8wLzE0NAAAAADn5+f4OP4O.jpg</Image>
+		<Description>Survive the encounter with Vaas and escape.</Description>
+	</Achievement>
+	<Achievement id="8">
+		<Title>Retake Wallstreet</Title>
+		<Image>https://live.xbox.com/tiles/Ik/3-/1oCLiGJhbC8WDgQaBRxYW1ljL2FjaC8wLzE0YgAAAADn5+f50E0-.jpg</Image>
+		<Description>Rescue Keith from Buck.</Description>
+	</Achievement>
+	<Achievement id="7">
+		<Title>Hands Off My Stoner</Title>
+		<Image>https://live.xbox.com/tiles/l0/Te/1ICLiGJhbC8VDgQaBRxYW1ljL2FjaC8wLzE0YQAAAADn5+f78USK.jpg</Image>
+		<Description>Rescue Oliver from the pirates.</Description>
+	</Achievement>
 	<Achievement id="5">
 		<Title>One of Us</Title>
 		<Image>https://live.xbox.com/tiles/qO/MR/1oCLiGJhbC9MDgQaBRxYW1ljL2FjaC8wLzE0OAAAAADn5+f5PuO1.jpg</Image>
