@@ -5,6 +5,21 @@
 	<Game id="1431505036">
 		<Title>Far Cry 3</Title>
 	</Game>
+	<Achievement id="14">
+		<Title>What a Trip</Title>
+		<Image>https://live.xbox.com/tiles/SF/69/0oCLiGJhbC8QDgQaBRxYW1ljL2FjaC8wLzE0ZAAAAADn5+f9kl5V.jpg</Image>
+		<Description>Attend the final ceremony.</Description>
+	</Achievement>
+	<Achievement id="13">
+		<Title>Poker Night</Title>
+		<Image>https://live.xbox.com/tiles/Ox/vx/14CLiGJhbC9NDgQaBRxYW1ljL2FjaC8wLzE0OQAAAADn5+f43hsm.jpg</Image>
+		<Description>Kill Hoyt.</Description>
+	</Achievement>
+	<Achievement id="12">
+		<Title>Deep Cover</Title>
+		<Image>https://live.xbox.com/tiles/Xx/yU/0ICLiGJhbC9EDgQaBRxYW1ljL2FjaC8wLzE0MAAAAADn5+f-uxxC.jpg</Image>
+		<Description>Complete Riley's interrogation.</Description>
+	</Achievement>
 	<Achievement id="11">
 		<Title>Higher Than a Kite</Title>
 		<Image>https://live.xbox.com/tiles/gA/b3/1oCLiGJhbC9BDgQaBRxYW1ljL2FjaC8wLzE0NQAAAADn5+f52Aad.jpg</Image>
