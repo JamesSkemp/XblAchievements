@@ -5,25 +5,20 @@
 	<Game id="1414596758">
 		<Title>Darksiders II</Title>
 	</Game>
-	<Achievement id="15">
-		<Title>Death Will Tear Us Apart</Title>
-		<Image>https://live.xbox.com/tiles/iB/vs/1oCLiGJhbC8RCRoEGllTWTk2L2FjaC8wLzNlAAAAAOfn5-nDG5Q=.jpg</Image>
-		<Description>Collect the Soul Splitter</Description>
-	</Achievement>
-	<Achievement id="26">
-		<Title>The Court of Bones</Title>
-		<Image>https://live.xbox.com/tiles/I5/Fq/14CLiGJhbC8WDxoEGllTWTk2L2FjaC8wLzViAAAAAOfn5-hFkT8=.jpg</Image>
-		<Description>Defeat Basileus</Description>
-	</Achievement>
 	<Achievement id="32">
 		<Title>Mass Ruckus</Title>
 		<Image>https://live.xbox.com/tiles/P6/hZ/14CLiGJhbC8VDBoEGllTWTk2L2FjaC8wLzZhAAAAAOfn5-h2qCM=.jpg</Image>
 		<Description>Equip elite items to all slots</Description>
 	</Achievement>
-	<Achievement id="16">
-		<Title>By Your Command</Title>
-		<Image>https://live.xbox.com/tiles/aK/ZA/0oCLiGJhbC9NCRoEGllTWTk2L2FjaC8wLzM5AAAAAOfn5-1vpnQ=.jpg</Image>
-		<Description>Collect the Interdiction Stone</Description>
+	<Achievement id="28">
+		<Title>City of the Dead</Title>
+		<Image>https://live.xbox.com/tiles/cf/BO/04CLiGJhbC8WCRoEGllTWTk2L2FjaC8wLzNiAAAAAOfn5-xh8G0=.jpg</Image>
+		<Description>Complete City of the Dead</Description>
+	</Achievement>
+	<Achievement id="26">
+		<Title>The Court of Bones</Title>
+		<Image>https://live.xbox.com/tiles/I5/Fq/14CLiGJhbC8WDxoEGllTWTk2L2FjaC8wLzViAAAAAOfn5-hFkT8=.jpg</Image>
+		<Description>Defeat Basileus</Description>
 	</Achievement>
 	<Achievement id="25">
 		<Title>The Toll of Kings</Title>
@@ -40,25 +35,10 @@
 		<Image>https://live.xbox.com/tiles/Qv/ky/0YCLiGJhbC9HDBoEGllTWTk2L2FjaC8wLzYzAAAAAOfn5-4d+V4=.jpg</Image>
 		<Description>Complete Tree of Life</Description>
 	</Achievement>
-	<Achievement id="2">
-		<Title>Dust to Dust</Title>
-		<Image>https://live.xbox.com/tiles/PR/LN/1ICLiGJhbC8SCRoEGllTWTk2L2FjaC8wLzNmAAAAAOfn5-viEiE=.jpg</Image>
-		<Description>Defeat the Guardian</Description>
-	</Achievement>
 	<Achievement id="22">
 		<Title>Heart of the Mountain</Title>
 		<Image>https://live.xbox.com/tiles/5d/Is/0oCLiGJhbC9DDhoEGllTWTk2L2FjaC8wLzQ3AAAAAOfn5-0D0vk=.jpg</Image>
 		<Description>Complete Heart of the Mountain</Description>
-	</Achievement>
-	<Achievement id="17">
-		<Title>The Triple Lindy</Title>
-		<Image>https://live.xbox.com/tiles/c0/ra/0ICLiGJhbC8RDBoEGllTWTk2L2FjaC8wLzZlAAAAAOfn5--1Sm8=.jpg</Image>
-		<Description>Complete 3 different high dives in the Foundry</Description>
-	</Achievement>
-	<Achievement id="11">
-		<Title>The Spectral Touch</Title>
-		<Image>https://live.xbox.com/tiles/ZA/jz/0oCLiGJhbC9FDBoEGllTWTk2L2FjaC8wLzYxAAAAAOfn5-3cCHg=.jpg</Image>
-		<Description>Collect Deathgrip</Description>
 	</Achievement>
 	<Achievement id="21">
 		<Title>To Move a Mountain</Title>
@@ -75,15 +55,45 @@
 		<Image>https://live.xbox.com/tiles/qT/Cv/1YCLiGJhbC9HDhoEGllTWTk2L2FjaC8wLzQzAAAAAOfn5-qAMLU=.jpg</Image>
 		<Description>Complete Fire of the Mountain</Description>
 	</Achievement>
+	<Achievement id="17">
+		<Title>The Triple Lindy</Title>
+		<Image>https://live.xbox.com/tiles/c0/ra/0ICLiGJhbC8RDBoEGllTWTk2L2FjaC8wLzZlAAAAAOfn5--1Sm8=.jpg</Image>
+		<Description>Complete 3 different high dives in the Foundry</Description>
+	</Achievement>
+	<Achievement id="16">
+		<Title>By Your Command</Title>
+		<Image>https://live.xbox.com/tiles/aK/ZA/0oCLiGJhbC9NCRoEGllTWTk2L2FjaC8wLzM5AAAAAOfn5-1vpnQ=.jpg</Image>
+		<Description>Collect the Interdiction Stone</Description>
+	</Achievement>
+	<Achievement id="15">
+		<Title>Death Will Tear Us Apart</Title>
+		<Image>https://live.xbox.com/tiles/iB/vs/1oCLiGJhbC8RCRoEGllTWTk2L2FjaC8wLzNlAAAAAOfn5-nDG5Q=.jpg</Image>
+		<Description>Collect the Soul Splitter</Description>
+	</Achievement>
 	<Achievement id="14">
 		<Title>Looks Familiar</Title>
 		<Image>https://live.xbox.com/tiles/LY/pm/1oCLiGJhbC8SDhoEGllTWTk2L2FjaC8wLzRmAAAAAOfn5-lJijE=.jpg</Image>
 		<Description>Collect Redemption</Description>
 	</Achievement>
+	<Achievement id="11">
+		<Title>The Spectral Touch</Title>
+		<Image>https://live.xbox.com/tiles/ZA/jz/0oCLiGJhbC9FDBoEGllTWTk2L2FjaC8wLzYxAAAAAOfn5-3cCHg=.jpg</Image>
+		<Description>Collect Deathgrip</Description>
+	</Achievement>
 	<Achievement id="10">
 		<Title>Pathfinder</Title>
 		<Image>https://live.xbox.com/tiles/GV/mY/1ICLiGJhbC8XDBoEGllTWTk2L2FjaC8wLzZjAAAAAOfn5-u3WQU=.jpg</Image>
 		<Description>First use of Fast Travel</Description>
+	</Achievement>
+	<Achievement id="5">
+		<Title>Soul Crushing</Title>
+		<Image>https://live.xbox.com/tiles/gd/pi/14CLiGJhbC9BDxoEGllTWTk2L2FjaC8wLzU1AAAAAOfn5-hN2p0=.jpg</Image>
+		<Description>Defeat The Wailing Host</Description>
+	</Achievement>
+	<Achievement id="2">
+		<Title>Dust to Dust</Title>
+		<Image>https://live.xbox.com/tiles/PR/LN/1ICLiGJhbC8SCRoEGllTWTk2L2FjaC8wLzNmAAAAAOfn5-viEiE=.jpg</Image>
+		<Description>Defeat the Guardian</Description>
 	</Achievement>
 	<Achievement id="1">
 		<Title>Crow Carrion</Title>
