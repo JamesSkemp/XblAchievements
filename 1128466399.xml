@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XblAchievements xmlns="http://media.jamesrskemp.com/ns/XblAchievements/201307"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://media.jamesrskemp.com/ns/XblAchievements/201307 http://media.jamesrskemp.com/xsd/2013/07/XblAchievements.xsd">
+	<Game id="1128466399">
+		<Title>Devil May Cry 4</Title>
+	</Game>
+	<Achievement id="55">
+		<Title>Skilled Devil Hunter</Title>
+		<Image>https://live.xbox.com/tiles/aJ/x9/14CLiGJhbC8VCBsDG1tTVmRmL2FjaC8wLzJhAAAAAOfn5-hSnHQ=.jpg</Image>
+		<Description>Defeat a total of 1,000 enemies.</Description>
+	</Achievement>
+	<Achievement id="49">
+		<Title>Your Cup Runeth Over</Title>
+		<Image>https://live.xbox.com/tiles/7C/a0/1ICLiGJhbC9ACBsDG1tTVmRmL2FjaC8wLzI0AAAAAOfn5-ubJvA=.jpg</Image>
+		<Description>Acquire 100,000 Red Orbs.</Description>
+	</Achievement>
+	<Achievement id="47">
+		<Title>Bat Out of Hell</Title>
+		<Image>https://live.xbox.com/tiles/hj/X2/0ICLiGJhbC9GCBsDG1tTVmRmL2FjaC8wLzIyAAAAAOfn5--ZNZo=.jpg</Image>
+		<Description>Extend the Devil Trigger Gauge to maximum capacity.</Description>
+	</Achievement>
+	<Achievement id="30">
+		<Title>The First Circle</Title>
+		<Image>https://live.xbox.com/tiles/mg/zF/0ICLiGJhbC9FCxsDG1tTVmRmL2FjaC8wLzExAAAAAOfn5--qDIY=.jpg</Image>
+		<Description>Clear stage 10 of Bloody Palace Mode.</Description>
+	</Achievement>
+</XblAchievements>
